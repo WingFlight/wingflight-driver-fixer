@@ -1,0 +1,5 @@
+# Requirements for WingFlight Driver Fixer
+# Install with: pip install -r requirements_driver_fixer.txt
+
+# Serial port enumeration + raw MSP reboot command
+pyserial>=3.5
